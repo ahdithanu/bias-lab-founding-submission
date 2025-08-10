@@ -188,7 +188,6 @@ Week 4: Implement human validation loops for accuracy improvement
 Target: 1,000 active users analyzing 10,000 articles/day by end of sprint.
 
 🤝 Connect
-Live Demo: https://your-codesandbox-url.csb.app
-Email: your.email@domain.com
-LinkedIn: linkedin.com/in/yourprofile
-Portfolio: yourportfolio.com
+Live Demo: https://lvmdg4.csb.app/
+Email: ahdiuthayakumar@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ahdithanu/
